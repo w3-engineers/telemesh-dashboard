@@ -1,4 +1,4 @@
-# Telemesh:Dashboard | Teleboard
+# Telemesh Dashboard | Teleboard
 
 TeleBoard [Telemesh Dashboard] is a component of project Telemesh https://github.com/w3-engineers/telemesh
 
